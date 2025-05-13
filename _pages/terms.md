@@ -13,27 +13,14 @@ The privacy of my visitors is extremely important. This Privacy Policy outlines 
 
 First and foremost, I will never share your email address or any other personal information to anyone without your direct consent.
 
-### Log Files
+I do not collect any information directly nor do I have access to it. Github, which hosts this website does collect your IP adress, whether you are logged into your github account or not : 
 
-Like many other websites, this site uses log files to help learn about when, from where, and how often traffic flows to this site. The information in these log files include:
+https://docs.github.com/en/pages/getting-started-with-github-pages/what-is-github-pages#data-collection
 
-* Internet Protocol addresses (IP)
-* Types of browser
-* Internet Service Provider (ISP)
-* Date and time stamp
-* Referring and exit pages
-* Number of clicks
+### Cookies and logs
 
-All of this information is not linked to anything that is personally identifiable.
+This site does not store any cookie on your computer as far as I am aware.
 
-### Cookies and Web Beacons
+#### Analytics
 
-When you visit this site "convenience" cookies are stored on your computer when you submit a comment to help you log in faster to [Disqus](http://disqus.com) the next time you leave a comment.
-
-Third-party advertisers may also place and read cookies on your browser and/or use web beacons to collect information. This site has no access or control over these cookies. You should review the respective privacy policies on any and all third-party ad servers for more information regarding their practices and how to opt-out.
-
-If you wish to disable cookies, you may do so through your web browser options. Instructions for doing so can be found on the specific web browsers' websites.
-
-#### Google Analytics
-
-Google Analytics is a web analytics tool I use to help understand how visitors engage with this website. It reports website trends using cookies and web beacons without identifying individual visitors. You can read [Google Analytics Privacy Policy](http://www.google.com/analytics/learn/privacy.html).
+I do not practice analysis in any way on this website's traffic. No google analytics is done on my side. Any analysis done would be by GitHub.

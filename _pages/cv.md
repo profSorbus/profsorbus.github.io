@@ -11,35 +11,28 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Master in Evaluation and Public Decision, Computer Science Specility, ENSAI, 2022
+* DAFFE : French chess diploma to teach chess by the chess federation
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2020 - 2022 : Civil servant at INSEE
+  * French national statistical institute
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2022 - Today : Data ingeneer
+  * Centre d'accès sécurisé aux données (CASD secure data hub)
+  * Duties included: Assisting researchers / Developing intern projects
+  * Supervisor: Eric Debonnel / Kamel Gadouche
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2019 : Chess teacher
+  * Teaching chess in holyday center in the south of France
+  * Specialisation in the developement of handicap and chess
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Software developement : DB, Buisness layer, API (Web or CLI), not the greatest at frontend, but it's never too late to learn !
+* Data processing with Spark, Python, R ...
+* Data storage (Parquet, SQL)
 
 Publications
 ======
@@ -58,7 +51,3 @@ Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
