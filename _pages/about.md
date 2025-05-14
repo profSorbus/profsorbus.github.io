@@ -29,6 +29,8 @@ I started teaching in 2024 under the direction of [Francesca Bugiotti](http://ww
 
 I like to explore the internet and practice OSINT on my own. I have gathered the resources collected across my journeys in a dedicated blog post. May these resources help you in your own journey or simply amuse you !
 
+I also have a passion for mechanical keyboards and self hosting services.
+
 ## Contact me !
 
 If you need to contact me, I am mainly available by email. I'm not often on linkedin. 
