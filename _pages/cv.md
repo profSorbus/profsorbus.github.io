@@ -19,7 +19,7 @@ Work experience
 * 2020 - 2022 : Civil servant at INSEE
   * French national statistical institute
 
-* 2022 - Today : Data ingeneer
+* 2022 - Today : Data engineer
   * Centre d'accès sécurisé aux données (CASD secure data hub)
   * Duties included: Assisting researchers / Developing intern projects
   * Supervisor: Eric Debonnel / Kamel Gadouche
